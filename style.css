@@ -1,23 +1,10 @@
-a{text-decoration:bold}
-.error{text-align:center;margin-bottom:25px;color:#a6a8ab;font-family:Formular,sans-serif;font-size:30px;display:block}
-.sad-icon{margin-bottom:10px}.info-container{display:flex;justify-content:space-around;flex-wrap:wrap;text-align:center}
-a.info{width:20%;min-width:160px;display:inline-block;text-align:center;color:#a6a8ab;font-family:Formular,sans-serif;font-size:20px;transition:color .3s ease-out;padding:10px}
-.icon{display:block;width:50%}
-.icon 
-.sheet{fill:#E5E5E5;opacity:1;transition:fill .3s ease-out}
-.info:hover 
-.icon 
-.sheet{fill:#E5E5E5;opacity:1}
-svg 
-.sign{opacity:1;fill:#fbd2d3;transition:fill .3s ease-out}
-a:hover 
-svg 
-.sign{opacity:1;fill:#f9b362}
-.info:hover{color:#6d6e70}
-.user{fill:#d1d1d1;opacity:1;transition:fill .3s ease-out}
-.info:hover 
-.icon 
-.user{fill:#5591f5;opacity:1}
-.settings{fill:#d1d1d1;opacity:1;transition:fill .3s ease-out}
-.info:hover .icon 
-.settings{fill:#f7c741;opacity:1}
+p { font: bold italic 110% serif; }
+table {
+margin: 0 auto;
+}
+td, th {
+border: 1px solid #F50;
+padding: 19px; 
+caption {
+padding-bottom: 19px;
+}
